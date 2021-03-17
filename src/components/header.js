@@ -10,7 +10,7 @@ export function Header() {
     <div>
       <div id="header-container" className="row align-items-center justify-content-center">
         <div className="col text-center">
-          <h1>History of Astrobiology</h1>
+          <h1 className="bg-dark p-3">History of Astrobiology</h1>
         </div>
       </div>
       <nav className="navbar navbar-dark bg-dark navbar-expand-lg">
