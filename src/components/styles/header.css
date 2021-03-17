@@ -1,0 +1,6 @@
+#header-container {
+    background-image: url('/src/images/earth.gif');
+    background-size: cover;
+    min-height: 60vh;
+    color: white;
+}
